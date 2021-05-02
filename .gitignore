@@ -1,0 +1,4 @@
+node_modules/
+
+# npm dependencies
+.DS_Store/
