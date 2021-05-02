@@ -8,6 +8,8 @@ Please click on the following link to view a quick demonstration of the applicat
 
 ## Pictures
 
+![image](https://user-images.githubusercontent.com/78775177/116806084-5c291000-aaf0-11eb-9347-032addd12119.png)
+
 
 ## TABLE Of CONTENTS
 
