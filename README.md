@@ -21,8 +21,8 @@ Please click on the following link to view a quick demonstration of the applicat
 
 ## Technologies
 
-* [Node.js](#https://nodejs.dev/learn)
-* [Inquirer.js](#https://www.npmjs.com/package/inquirer)
+* [Node.js](https://nodejs.dev/learn)
+* [Inquirer.js](https://www.npmjs.com/package/inquirer)
 
 # Installation
 
